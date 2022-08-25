@@ -1,4 +1,4 @@
-#Code Grimoire
+# Code Grimoire
 
 >If creating awesome stuff with code feels like magic to you,
 >
